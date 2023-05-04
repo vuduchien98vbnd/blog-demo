@@ -1,0 +1,59 @@
+.register{
+    height: calc(100vh - 70px);
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(
+        
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),
+     url('https://www.studytienganh.vn/upload/2021/04/97816.jpg');
+    background-size: cover;
+}
+.registerTitle{
+    font-size: 50px;
+    color: white;
+}
+.registerForm{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.registerForm >label{
+    margin: 10px 0px;
+    color: white;
+}
+.registerInput{
+    padding: 10px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 250px;
+}
+.registerInput:focus{
+    outline: 0;
+    border-color: #6a5af9;
+}
+.registerButton{
+    margin-top: 20px;
+    background-color: green;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    height: 40px;
+    width: 150px;
+}
+.cancelButton{
+    margin-top: 20px;
+    background-color: red;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    height: 40px;
+    width: 100px;
+}

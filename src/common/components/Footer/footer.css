@@ -1,0 +1,17 @@
+.phone-number{
+    text-align: center;
+}
+.info-contact{
+    display: flex;
+    
+    justify-content: center;
+}
+.footer{
+    margin-top: 40px;
+}
+.social-contact{
+    margin: 10px;
+}
+.text-dark{
+    text-decoration: none;
+}

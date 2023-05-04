@@ -1,0 +1,47 @@
+.link_page{
+    text-decoration: none;
+    color: black;
+    height: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.link_page_m{
+    text-decoration: none;
+    color: black;
+    height: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.header-blog{
+    height: 70px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: 'Josefin Sans', sans-serif;
+    top: 0;
+    background-color: white;
+    
+    width: 100%;
+    /* box-shadow: 1px 1px 5px 5px black; */
+    border: 2px solid wheat;
+    border-radius: 5px;
+    margin:0px 5px;
+   
+    
+}
+.blogItem-name{
+    
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.logo-blog{
+    width: 50px;
+    display: flex;
+}
+
+.headerBlog-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+

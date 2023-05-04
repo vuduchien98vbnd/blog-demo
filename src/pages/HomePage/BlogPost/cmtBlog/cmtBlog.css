@@ -1,0 +1,27 @@
+.avatar-url{
+    width: 35px;
+    height: 35px;
+}
+.cmt-name{
+    font-weight: 700;
+    margin-left: 5px;
+}
+.content{
+    margin-left: 40px;
+}
+.cmt-container{
+    /* border: 1px solid black; */
+    padding: 10px;
+    width: 100%;
+    height: 300px;
+    overflow: auto;
+    
+    
+}
+.cmt-add{
+    width: 100%;
+    height: 80px;
+    margin: 10px 0px;
+    
+    
+}
